@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm gamer4life1, and I do lots of different things.
+I'm lpuv (Leo), and I do lots of different things.
 
 Some notable things I have been working on are [makedeb](https://github.com/makedeb), [Fedora packages](https://pagure.io/user/leo) and Fedora Infrastructure.
 
